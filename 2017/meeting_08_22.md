@@ -52,10 +52,10 @@
     - "Skottkärran"
   
   - Aktiviteter kommande terminen
-   - Ingen basket
-   - Innebandy kommer vara 20:00 - 21:30 på måndagar i Kista brandstation från och med 11 september
-   - Fotboll kommer förmodligen vara på lördagar med start från oktober
-   - Mer fokus på aktiviteter som förekommer då och då som bowling och klättring
-   - Ingen badminton tills vidare då det inte finns någon ansvarig, men det så fort det finns någon sådan så går det snabbt att återuppta aktiviteten
+    - Ingen basket
+    - Innebandy kommer vara 20:00 - 21:30 på måndagar i Kista brandstation från och med 11 september
+    - Fotboll kommer förmodligen vara på lördagar med start från oktober
+    - Mer fokus på aktiviteter som förekommer då och då som bowling och klättring
+    - Ingen badminton tills vidare då det inte finns någon ansvarig, men det så fort det finns någon sådan så går det snabbt att återuppta aktiviteten
 	
 - Mötet avslutas 20.55
