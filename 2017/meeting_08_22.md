@@ -4,7 +4,7 @@
 - Mötet öppnas 18.25
 - Närvarande på mötet
   - Marko Saukko
-  - Cristoffer Lagergre
+  - Cristoffer Lagergren
   - Fredrik Ljunghem
   - Max Bertilsson
   - Niklas Åkerlund
